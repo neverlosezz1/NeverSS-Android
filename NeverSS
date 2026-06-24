@@ -1,2 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/bash
-php "$(dirname "$0")/NeverSS.php"
